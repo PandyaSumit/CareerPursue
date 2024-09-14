@@ -35,7 +35,8 @@ export const Header = () => {
     <>
       <nav className="py-4 flex justify-between items-center">
         <Link>
-          <h1 className="italic font-bold font-serif text-4xl">Hired</h1>
+          <h1 className="italic font-bold font-serif text-4xl">CareerPursue
+          </h1>
         </Link>
         <div className="flex gap-8">
           <SignedOut>
